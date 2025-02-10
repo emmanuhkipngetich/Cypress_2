@@ -1,1 +1,1 @@
-This is Cypress Test Automations
+Cypress Test Automations
